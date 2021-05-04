@@ -1,0 +1,45 @@
+*{
+  margin: 0px;
+  border: 0px;
+  box-sizing: border-box;
+}
+.main-container{
+  margin: 20px;
+  padding: 15px;
+  
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center space-between;
+  align-items: center;
+  flex-direction: column;
+  
+}
+.c{
+  margin: 5px;
+  padding: 10px;
+}
+.c1{
+  background:#B2E7E8;
+}
+.c2{
+  background: #F2D096;
+}
+.c3{
+  background:#FAF2E8;
+  display: flex;
+}
+.c5{
+  background:#FAF2E8;
+  display: flex;
+}
+.c4{
+  background: #ED8975;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+}
+  
+  
+  
